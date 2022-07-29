@@ -1,0 +1,10 @@
+
+#health-bar{
+background-color: yellow;
+}
+#health-player{
+width:30%;
+height:30px;
+background-color: yellow;
+position: absolute;
+}
